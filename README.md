@@ -2,7 +2,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/moakthar/Galacticos_Landing_Page_)
 ![GitHub last commit](https://img.shields.io/github/last-commit/moakthar/Galacticos_Landing_Page_)
-![Made with HTML, CSS, JS](https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JS-Vanilla-blueviolet)
+![Made with HTML, CSS, JS]
 
 > 🚀 **Frontend Task Project** assigned by **Winngoo Company**, completed with clean design, responsiveness, and interactive user experience using HTML, CSS, and JavaScript.
 
